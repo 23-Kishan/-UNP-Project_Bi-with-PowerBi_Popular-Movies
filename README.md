@@ -7,3 +7,5 @@ The dashboard facilitates deep dives into movie trends, aiding in strategic deci
 PDF LINK-https://drive.google.com/file/d/1smICoXRFp9GkuH7Sl25T6K8u-4p4_WDm/view?usp=sharing
 
 PPT LINK-https://drive.google.com/file/d/10RMvRIDcOFlAQgKEaIvWEVWJhV1lbXjI/view?usp=sharing
+
+PBXI LINK -https://drive.google.com/file/d/1FQcr8ao8Uws1CaqYXz1QaZSewDJ9Sxa4/view?usp=sharing
