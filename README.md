@@ -1,12 +1,8 @@
 UNP Project_Bi with PowerBi_Popular Movies
 
-Completed this project as a part of my Bi with PowerBi Internship with United Network of Professionals (UNP).
-
-Key Highlights:
-
-1. Contributed to the development of intricate KPIs and dynamic, Interactive Power BI Interfaces.
-2.Understood the problems and requirements of Stakeholders and translated them into effective Power BI solutions.
-3. Ardently involved in creating data model, implemented data transformations and calculations using DAX for accurate analysis and reporting.
+This Power BI dashboard provides a comprehensive analysis of the popular movies dataset, focusing on user ratings, movie details, and overall analysis. 
+It offers interactive visualizations and insights into user preferences, movie ratings distribution, and genre popularity, enabling users to explore and understand the dataset easily.
+The dashboard facilitates deep dives into movie trends, aiding in strategic decision-making for filmmakers and enthusiasts alike.
 
 PBXI LINK -https://drive.google.com/file/d/1FQcr8ao8Uws1CaqYXz1QaZSewDJ9Sxa4/view?usp=sharing
 
